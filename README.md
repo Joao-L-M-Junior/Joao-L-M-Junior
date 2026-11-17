@@ -1,45 +1,38 @@
 # Olá, eu sou o João Luiz! 👋
 
-Com uma trajetória sólida de **15 anos de experiência comercial/negócios**, realizei minha transição para a área de **Tecnologia & Dados**. 
+Analista de Dados e Business Intelligence em formação, unindo **15 anos de experiência estratégica na área comercial e de operações** com domínio técnico em **Python, SQL, Modelagem de Dados e Power BI** para transformar dados brutos em decisões de negócio.
 
-Atualmente curso simultaneamente a graduação **Análise e Desenvolvimento de Sistemas** e graduação em **Banco de Dados**, com foco especial em **Banco de Dados (SQL/NoSQL)**, **Modelagem de Dados** e **Arquitetura de Informações** para dar suporte à tomada de decisões e criação de sistemas robustos.
-
----
-
-### 🗄️ Foco & Especialidades Técnicas
-
-- **Banco de Dados & SQL:** Modelagem Relacional, Escrita de Queries Avançadas, Otimização de Consultas, Manipulação e Estruturação de Dados (SQL).
-- **Linguagens de Programação:** Python, Java, JavaScript, HTML5, CSS3.
-- **Ciência de Dados & IA:** Análise de Dados, Conceitos de Machine Learning, CS50 (Harvard).
-- **Ferramentas & Ambientes:** Git, GitHub, VS Code, Excel Avançado, Linux.
+Atualmente curso simultaneamente as graduações tecnológicas em **Análise e Desenvolvimento de Sistemas** e **Banco de Dados** pela UNIASSELVI, atuando na área comercial e análise de dados na **Everlux**.
 
 ---
 
-### 📌 Projetos & Destaques
+### 📊 Foco & Stack Técnica
 
-- 🗃️ **Modelagem e Consultas SQL:** Projetos voltados para criação de schemas, relatórios complexos e manipulação de bancos de dados relacionais.
-- 🐍 **Projetos em Python & Automações:** Scripts e soluções para integração de dados, automação de tarefas e lógica de programação.
-- 🎓 **Ciência da Computação Fundacional (CS50 - Harvard):** Algoritmos, estruturas de dados e otimização de resolução de problemas.
-- 📊 **Análise de Dados Aplicada:** Unindo visão de negócios/processos adquirida em 15 anos de mercado com análise preditiva e relatórios.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-*(Explore a aba de repositórios abaixo para conferir os códigos e esquemas de banco de dados!)*
-
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joao-L-M-Junior&show_icons=true&theme=radium&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-L-M-Junior&layout=compact&theme=radium&hide=html,css" alt="Linguagens mais usadas" height="170"/>
-</p>
+* **Business Intelligence & Visualização:** Power BI (Modelagem Star Schema, DAX, Power Query / M), storytelling com dados e construção de KPIs comerciais e operacionais.
+* **Banco de Dados & SQL:** Modelagem relacional, consultas analíticas avançadas (CTEs, Window Functions, Joins), otimização de queries e administração de SGBDs (PostgreSQL, MySQL, SQL Server e SQLite).
+* **Análise & Engenharia de Dados (ETL):** Limpeza, tratamento, automação de rotinas e análise exploratória de dados com Python (`Pandas`, `NumPy`), além de Excel avançado.
+* **Certificações & Formação Complementar:** Microsoft Azure AI Fundamentals (**AI-900**), Administração de Base de Dados (Fundação Bradesco) e fundamentos de Ciência da Computação (**CS50 - Harvard**).
 
 ---
 
-### 📬 Vamos nos conectar?
+### 🚀 Principais Áreas de Atuação nos Projetos
 
-- **LinkedIn:** [linkedin.com/in/jl-mourajr](https://www.linkedin.com/in/jl-mourajr/)
-- **Email:** [jluizmoura1@gmail.com](mailto:jluizmoura1@gmail.com)
+* **📈 Dashboards Executivos & BI:** Painéis interativos focados em performance comercial, faturamento, estoque e indicadores-chave de desempenho.
+* **🗄️ Arquitetura & Consultas SQL:** Estruturação de bancos de dados normalizados, scripts de carga e consultas analíticas voltadas para inteligência de negócios.
+* **🐍 Automação & Pipelines em Python:** Scripts para extração, limpeza e consolidação de bases de dados e rotas operacionais.
 
 ---
 
-*"Dados são o combustível das decisões modernas; a lógica e o código são os motores."*
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jl-mourajr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jluizmoura1@gmail.com)
